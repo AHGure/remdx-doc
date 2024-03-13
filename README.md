@@ -1,7 +1,7 @@
 <h1 align = "center">REMDx</h1>
 
 REMDx is a board that is able to measure **0-35V DC voltage** with a resolution of 1mV, **0-8A DC current** with a resolution of 250uA (which can be changed by replacing the shunt resistor), **burden voltage**, and **power**. Furthermore, all measurements can be performed over two channels.
-The REMDx (Realtime Efficiency Measurement Unit x) was originally intended to measure the efficiency of Switch Mode Power Supplies / Linear Regulator hence the name REMDx but later evolved into a datalogging device. See the [schematic](https://github.com/quractech/remdx/blob/main/remd_scheamtic.pdf) of REMDx ([Github repo](https://github.com/quractech/remdx)).
+The REMDx (Realtime Efficiency Measurement Unit x) was originally intended to measure the efficiency of Switch Mode Power Supplies / Linear Regulator hence the name REMDx but later evolved into a datalogging device. See the [schematic](https://github.com/quractech/remdx/blob/main/remd_scheamtic.pdf) of REMDx ([Github repo](https://github.com/AHGure/remdx-doc)).
 <br>
 Below you can see the REMDx PCB board.
 ![REMDx board](board_v3.jpg)
